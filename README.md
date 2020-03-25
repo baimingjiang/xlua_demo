@@ -1,2 +1,0 @@
-# xlua_demo
-demo
